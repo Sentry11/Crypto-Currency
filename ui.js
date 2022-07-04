@@ -9,8 +9,8 @@ const Table = importJsx('./src/components/Table');
 const App = () => (
 
 <>
-	<Gradient name = "summer">
-			<BigText text = "crypto cli" align = 'center' font='chrome' />
+	<Gradient name = "rainbow">
+			<BigText text = "Crypto currency" align = 'center' font='chrome' />
 	</Gradient>
 	<Table/>
 </>
