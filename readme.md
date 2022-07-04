@@ -8,4 +8,4 @@ Simple console app to demonstrate crypto currency
 
 > Since react is mainly designed to work with ui, it was a dream to try to create a console application to see and explore the difference between a console application and a graphical one
 > 
-![img](https://fv20.failiem.lv/down.php?i=3zkufck8n&view)
+![img](https://imageup.ru/img14/3967480/preview.png)
