@@ -9,4 +9,5 @@ Simple console app to demonstrate crypto currency
 > Since react is mainly designed to work with ui, i wanna try to create a console application to see and explore the difference between a console application and a graphical one
 
 ## Result
-<img src="https://github.com/Sentry11/media/raw/main/crypto.png" height="250"/>
+The application shown below is running in the terminal<br/>
+<img src="https://github.com/Sentry11/media/raw/main/crypto.png" height="350"/>
